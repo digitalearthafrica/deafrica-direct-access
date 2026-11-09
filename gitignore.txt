@@ -1,0 +1,18 @@
+.idea
+*.tif
+*.xml
+__pycache__
+dask-worker-space
+/.idea/
+**/core
+
+# jupyter notebook checkpoints
+**/.ipynb_checkpoints
+
+# Vscode config
+**/.vscode/
+
+# Secrets and credentials
+**/.env
+**/credentials.json
+**/token.json
